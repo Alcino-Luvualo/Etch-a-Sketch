@@ -20,7 +20,7 @@ Permite desenhar em uma grade interativa, mudar o tamanho da grade e alternar en
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/etch-a-sketch.git
+   git clone https://github.com/Alcino-Luvualo/etch-a-sketch.git
    ```
 2. Abra o arquivo `index.html` no navegador.
 
