@@ -1,0 +1,50 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: rgb(99, 80, 80);
+    color: rgb(205, 176, 176);
+    font-family: Arial, Helvetica, sans-serif; 
+}
+.container {
+    background-color: brown;
+    width: 90%;
+    margin: 0 auto;
+    height: 820px;
+    border-radius: 10px;
+    
+}
+h1 {
+    text-align: center;
+    padding-top: 10px;
+}
+.grade {
+    display: grid;
+    background-color: white;
+    width: 60%;
+    margin: 40px auto;
+    height: 600px;
+
+ 
+}
+button {
+    border-radius: 10px;
+    width: 100px;
+    height: 60px;
+    background-color: rgb(185, 109, 109);
+    border: none;
+    color: rgb(41, 69, 69);
+    font-size: 20px;
+    font-weight: 900;
+}
+button:hover {
+    background-color: rgb(96, 54, 54);
+}
+.buttoms {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    gap: 140px;
+}
